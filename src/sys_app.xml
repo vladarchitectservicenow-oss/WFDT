@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-05-16 00:00:00">
+  <sys_app action="INSERT_OR_UPDATE">
+    <active>true</active>
+    <can_edit_in_studio>true</can_edit_in_studio>
+    <enforce_license>none</enforce_license>
+    <js_level>es_latest</js_level>
+    <licensable>true</licensable>
+    <license/>
+    <name>Workflow Data Fabric Tracker</name>
+    <private>false</private>
+    <scope>x_wfdt</scope>
+    <source>x_wfdt</source>
+    <sys_class_name>sys_app</sys_class_name>
+    <sys_code/>
+    <sys_created_by>admin</sys_created_by>
+    <sys_created_on>2026-01-01 00:00:00</sys_created_on>
+    <sys_id>wfdt_app_001</sys_id>
+    <sys_mod_count>1</sys_mod_count>
+    <sys_updated_by>admin</sys_updated_by>
+    <sys_updated_on>2026-05-16 00:00:00</sys_updated_on>
+    <template/>
+    <trackable>true</trackable>
+    <version>1.0.0</version>
+  </sys_app>
+</unload>
